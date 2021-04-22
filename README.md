@@ -2,17 +2,19 @@
 
 In this covid time student can't get their doubt clear, So they are not able to learn about the course due to less connectiviy.
 
-      Through this app a user can create their ID and upload their profile photo. So user can also make their bio. User can post their doubts and other users likes the post
- clearify the doubts in the comment box. If a user likes the post then they also reward the post. Users also make their groups and chat with each other.
+ Through this app a user can create their ID and upload their profile photo. So user can also make their bio.
+ User can post their doubts and other users likes the post clearify the doubts in the comment box. If a user 
+ likes the post then they also reward the post. Users also make their groups and chat with each other.
+ 
  # Feature
-Users can sign in and create an id.
-Users like comments and reward the post.
-A Passwordless sign-in option.
-Users edit their posts or delete them.
-Users create chatrooms and also send stickers
-and see the last message.
-A user follows the other user and also sees the
-recently added things on the profile page.
+    1:-  Users can sign in and create an id.
+    2:-  Users like comments and reward the post.
+    3:-  A Passwordless sign-in option.
+    4:-  Users edit their posts or delete them.
+    5:-  Users create chatrooms and also send stickers
+    6:-  and see the last message.
+    7:-  A user follows the other user and also sees the
+    8:-  recently added things on the profile page.
 
 ## Getting Started
 
