@@ -1,8 +1,8 @@
 # learning
 
-In this covid time student can't get their doubt clear, So they are not able to learn about the course due to less connectiviy.
+In this covid time student can't get their doubt clear, So they are not able to learn about the course due to less connectivity.
 
- Through this app a user can create their ID and upload their profile photo. So user can also make their bio.
+ Through this app a user can create their ID and upload their profile photo and user can also make their bio.
  User can post their doubts and other users likes the post clearify the doubts in the comment box. If a user 
  likes the post then they also reward the post. Users also make their groups and chat with each other.
  
